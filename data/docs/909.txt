@@ -1,7 +1,0 @@
-Google'dan yeni özellik: Arama geçmişi indirme
-Google kullanıcıları, artık geçmişte yaptıkları tüm aramaları bir belge dosyası olarak indirebilecek.
-Google kullanıcıları, kullanıcı adı ve şifrelerini history.google.com adresine girerek arama geçmişini indirebilecek. Böylece kullanıcıya ait hassas verilere herkes ulaşamayacak.
-ADIM ADIM "GOOGLE ARAMA GEÇMİŞİ" İNDİRMESiteye giriş yaptıktan sonra sağ üst kısımda yer alan ayarlar bölümüne tıkladıktan sonra, "indir" seçeneğini tıklayarak verilerinizin kopyasını indirebilirsiniz.
-Bu seçenek seçildikten sonra, Google tarafından yapılan uyarıları da dikkatlice okumak gerekiyor. Eğer bu belgeyi herkese açık bir bilgisayarda indirmeyi tercih ederseniz, arama geçmişinize başkalarının da ulaşma ihtimalini göz ardı etmemelisiniz. Google yine bu hassas verilerin korunması amacıyla "2 Adımlı Doğrulama" yöntemine dikkat çekiyor. 
-Uyarıyı okuduktan sonra kullanıcıların "Arşiv Oluştur" seçeneğini tıklaması gerekiyor. Google bu adımdan sonra, arşiv dosyanız hazır olduğunda bilgilendirme maili göndereceğini belirtiyor.
-Mail adresinize arşiv dosyanız hazırlandıktan sonra bir mail geliyor. Burada kullanıcılara 2 seçenek sunulmuş. Arama geçmişinizi "Google Drive"a kaydedebilir, ya da bilgisayaranıza bir dosya olarak indirebilirsiniz. 

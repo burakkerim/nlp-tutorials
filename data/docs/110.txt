@@ -1,5 +1,0 @@
-Facebook’tan devrim niteliğinde uygulama
-Facebook, izinsiz veri kullanımının önüne geçmek için ’anonim login’ uygulamasını getiriyor.
-Bir çok web sitesi kullanıcıların hesap açması ve giriş yapabilmesi için Facebook hesaplarını kullanmasına izin veriyor. Fakat bu durum bazı kişisel verilerin, web sitesi yöneticileri tarafından görülmesine sebep veriyor.
-Facebook milyarlara ulaşan kullanıcıların kişisel verilerinin başka sitelerin eline geçmemesi için login uygulamasına anonim login seçeneğini ekleyecek. Bu seçenekle kullanıcı siteye normal bir üye gibi giriş yapabilirken site yöneticileri kullanıcının özel verilerini görüntüleyemeyecek. Ayrıca kullanıcılar, siteye üye olurken sitenin hangi verileri görüp göremeyeceğini de belirleyebilecek.
-Facebook, önümüzdeki aylarda bu uygulamayı devreye sokmayı planlıyor.

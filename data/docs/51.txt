@@ -1,9 +1,0 @@
-Hacker'lar uçak kaçırabilir mi?
-Uçaklarda her geçen gün yaygınlaşan internet bağlantısı hacker'lara davetiye mi çıkartıyor? Konuyla ilgili hazırlanan bir rapora göre, uçaklardaki elektronik sisteme bağlanabilen hacker'lar bir trajedinin yaşanmasına sebep olabilir.
-Pek çok havayolu şirketi uçuşlarda internet hizmeti vermeye başladı. Bu durumun bir felakete davetiye çıkardığının altını çizen Hükümet Hesap Verebilirlik Ofisi (GAO) yolcu uçaklarındaki internet bağlantısı  sayesinde bilgisayar korsanlarının uçakları hack'leyebileceğini iddia ediyor.
-Konuyla ilgili hazırladığı raporda "Modern uçakların internete olan bağlılığı her geçen gün artıyor. Bu durum yetkisi olmayan kişilerin uçağın kontrolünü ele geçirmesini mümkün kılıyor" ifadelerini kullanan kurum, uçaktaki elektronik cihazların kullandığı IP network'ünün dolaylı olarak kabindeki ile aynı olduğuna dikkat çekiyor.
-"GÜVENLİK DUVARI KIRILABİLİR"
-Söz konusu tehlike hakkında 4 siber güvenlik uzmanından fikir alan kurum, bu kişilerin hepsinin uçaklardaki güvenlik duvarının tüm sistemler gibi kırılabileceğini belirttiğinin altını çiziyor.
-"TERÖR SALDIRISINDA KULLANILABİLİR"
-Rapora göre,  güvenliği devre dışı bırakacak bilgi birikimine sahip bir terörist uçuş sırasında kullandığı bir laptop ile uçağın kontrolünü ele geçirebilir ve herhangi bir kısıtlama ile karşılaşmadan uçağı terör saldırılarında kullanabilir.
-Konuyla ilgili Ocak 2015'te ABD Federal Havacılık Kurulu'na (FAA) başvuran kurum, FAA'nın bu tehdidi ortadan kaldırmasını talep etmişti.

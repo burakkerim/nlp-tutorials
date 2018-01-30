@@ -1,5 +1,0 @@
-BMW İ3 mobil ATM oldu
-Polonya'da bir banka BMW İ3'e entegre ettiği mobil ATM'lerle müşterilerinin istedikleri anda bulundukları yere giderek hizmet verecek.
-Banka müşterileri cep telefonlarına indirdikleri bir uygulamayla, ihtiyaç duydukları anda bankanın BMW İ3’e entegere edilmiş olan ATM’sini ayaklarına kadar çağırabiliyor ve bir ATM'den yapabilecekleri işlemleri yapabiliyorlar. 
-Bankanın şimdilik 4 adet elektrikli BMW İ3 otomobilden oluşan filosu 24 saat hizmet verecek. Müşteriler Android veya İOS'tan indirebilecekleri uygulamayla, kendilerine en yakın Mobil ATM’leri görebiliyor ya da ATM’lerden birini yanlarına çağırabiliyorlar.
-  Ayrıca bankanın müşterilerinin taksi olarak kiralayabildikleri mobil ATM’ler, müşterilerin telefonlarındaki aplikasyon ile yakınlardaki restoranlardan yiyecek temini yapmasını da sağlıyor.
