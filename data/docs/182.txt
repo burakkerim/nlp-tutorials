@@ -1,0 +1,6 @@
+ÖSYM’den ’dolandırıcılık’ uyarısı
+Son dönemde artan internet dolandırıcılığı olayları, ÖSYM’yi de harekete geçirdi. ÖSYM, adayları dijital dolandırıcılık konusunda uyardı.
+Son dönemde artan internet dolandırıcılığı olayları ÖSYM’yi de harekete geçirdi. Özellikle internette en çok aranan içerikler arasında yer alan “YGS sonuçları” dijital dolandırıcıların da dikkatinden kaçmıyor. Bu yüzden Ölçme, Seçme ve Yerleştirme Merkezi (ÖSYM), Yükseköğretime Geçiş Sınavı (2015-YGS) sonuçlarının açıklandığı sayfada adaylara uyarılarda bulundu.
+ADAYLARIN DİKKATİNE
+“Adayların Dikkatine” başlıklı uyarıda YGS’ye giren adayların site görseline aldanmadan internet tarayıcısı adres satırının “https://sonuc.osym.gov.tr/” adresi ile başlaması gerektiği belirtiliyor. Çünkü tarayıcı adresinde farklı bir adres bulunan siteye girildiğinde adayların TC kimlik numarası ve şifresini girdiğinde hiç hoş olmayacak sonuçlarla karşılaşabileceğini anlatılıyor.
+“ÖSYM, 2015-YGS Sonuçları” sayfasında şöyle uyarı yapılıyor: “Kişisel bilgi niteliğindeki TC kimlik numaranızın ve şifrenizin hiç kimse ile paylaşılmaması ve ÖSYM dışındaki sitelere girilmemesi gerekmektedir. Aksi durumda ortaya çıkabilecek olumsuzluklardan adayın kendisi sorumlu olacaktır.” denildi.

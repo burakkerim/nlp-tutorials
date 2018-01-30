@@ -1,0 +1,5 @@
+Toyota ile AppleTürkiye'ye özel uygulama geliştirdi
+“Toyota E-Check” uygulaması ile yetkili servislere gelen Toyota sahipleri, servis danışmanları ile iPad üzerinden müşteri bazında kişiselleştirilmiş bir ara yüz aracılığıyla araçlarının ön kontrollerini gerçekleştirebilecek.
+Toyota’nın sürekli iyileştirme prensibi kapsamında devreye alınan bu uygulama ile müşteriler, araçlarının lastik diş derinlikleri, silecek ve paspas durumu gibi güvenlik unsurları kontrol edilirken aynı zamanda Toyota’nın çeşitli kampanya ve ürünlerinden anında haberdar olabilecek.
+Yapılan detaylı kontrol işlemi sonucunda tüm tespitleri içeren bir ön kontrol formunu elektronik ortamda müşterileri ile paylaşan Toyota, Türkiye’deki bu uygulamasıyla güvenliğe verdiği önem ile dikkati çekiyor. 
+Toyota, Apple ile gerçekleştirilen bu iş birliği ile “Toyota E-Check” uygulamasını 58 bayisinde hizmete sundu.

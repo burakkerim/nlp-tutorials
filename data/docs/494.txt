@@ -1,0 +1,10 @@
+WhatsApp laptop ve bilgisayar üzerinden de hizmet verecek
+Popüler mobil mesajlaşma servisi WhatsApp, kullanıcılarının bilgisayarlar üzerinden mesajlaşmalarını sağlayacak yeni özelliğini kullanıma sundu.
+Kullanıma girdiği günden beri sadece mobil cihazlarda kullanılabilen mesajlaşma uygulması WhatsApp, artık web üzerinden de hizmet verecek.
+WhatsApp'ı bilgisayarda kullanmak için yapılması gerekenler şöyle;
+-Kullanıcıların web.whatsapp.com sitesindeki QR kodunu akıllı telefonlarına taratması gerekiyor. Bu uygulama şu an için sadece Google Crome üzerinden yapılıyor.
+-Bu işlemin ardından kullanıcıların WhatsApp hesaplarını otomatik olarak Web'e uyumlu hale getiriliyor. 
+-Bu işlem şu an için sadece Android ve Windows işletim sistemi ile çalışan akıllı telefonlar ile yapılabiliyor.
+-Söz konusu işlem Apple'ın platformundaki kısıtlamalarından dolayı iPhone'larla yapılamıyor.
+Facebook, WhatsApp’ı 19 milyar dolar karşılığında bünyesine katmıştı
+İlk etapta Google Crome ile kullanılabilen web.whatsapp.com’un önümüzdeki dönemde diğer internet tarayıcılarına da uyumlu hale getirilmesi bekleniyor.WhatsApp’ın 700 milyonun üzerinde aktif kullanıcısı bulunuyor. Şubat 2014’te Facebook tarafından satın alınan WhatsApp’ın yeni stratejisi kapsamında aktif kullanıcı sayısını gözle görülür oranda artırması bekleniyor.

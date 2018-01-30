@@ -1,0 +1,7 @@
+Microsoft yeni tarayıcısını tanıttı
+Microsoft Ocak 2015'te resmen duyurduğu yeni tarayıcısını dün görücüye çıkardı. 'Microsoft Edge' isimli yeni nesil tarayıcının kullanıma girmesinin ardından Internet Explorer'ın bir süre daha Windows 10 ile çalışmaya devam edeceği açıklandı.
+2015'in başınd yeni nesil işletim sistemi Windows 10'u tanıtan Microsoft, 'Project Spartan' adıyla basına yansıyan  yeni nesil internet tarayıcısını görücüye çıkardı.
+'Microsoft Edge' isimli yeni nesil tarayıcısını Build 2015 geliştirici konferansında tanıtan ABD merkezli teknoloji devi, Internet Explorer'ı şimdilik emekli etmeyecek ve emektar tarayıcıWindows 10'da bir süre daha yer alacak.
+Microfost'un akıllı asistanı Cortana ile entegre olan Edge, kullanıcılarının sesli komutlarıyla işlem yapabiliyor.
+Yeni tarayıcı Twitter benzeri bir kullanım da sunuyor.Kullanıcıların istedikleri sayfaları ve bilgileri oluştırdıkları listelerde kaydetmesine imkan veren Edge, Chrome ve Firefox tarayıcılarının eklentilerini de kendi platformu üzerinden açabiliyor. 
+Microsoft'un Edge için hazırlanan video:

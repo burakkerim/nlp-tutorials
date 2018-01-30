@@ -1,0 +1,9 @@
+Google'ın ihmali milyonlarca kullanıcıyı etkiledi
+Google'ın elektronik posta servisi Gmail'deki bir software güncellemesini unutmasının ardından, pek çok kullanıcı hesaplarına giremedi.
+İlişkili Haberler
+Google “parmak bilgisayar” üretecek
+Google'dan insanlık için büyük adım
+Milyonlarca kullanıcıya hizmet veren Gmail'de 4 Nisan tarihinden beri yaşanan sorunların ardından Google'dan açıklama geldi.
+Sorunun farkında olduklarını belirten ve kullanıcılarından özür dileyen Google'ın güvenlik sertifikasını yenilemeyi ihmal ettiği ve söz konusu sorunun bu ihmalden kaynaklandığı ortaya çıktı.  
+Milyonlarca kullanıcıyı etkileyen sorunu kısa sürede çözen Google, Şubat ayında da benzer bir sorun ile karşılaşmış, sistemde yaşanan sorun nedeniyle kullanıcıların attıkları elektronik postalar yanlış kişilere gönderilmişti.
+ABD merkezli teknoloji devinin 'Authority G2' isimli güvenlik sistemi, güvenlik sertifikalarını ve diğer güvenli yazılım sistemlerini kontrol ediyor.

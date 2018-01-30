@@ -1,0 +1,50 @@
+ALPHABET
+a b c ç d e f g ğ h ı i j k l m n o ö p r s ş t u ü v y z 
+%+:0 %(:0 %):0 ;
+
+
+SETS
+
+! vowels
+V = a e ı i o ö u ü A H ;
+
+! back vowels
+Vb = a ı o u ;
+! front vowels
+Vf = e i ö ü ;
+
+! back rounded vowels
+Vbr = o u ;
+! front rounded vowels
+Vfr = ö ü ;
+
+! back unrounded vowels
+Vbu = a ı ;
+! front unrounded vowels
+Vfu = e i ;
+
+! consonants
+C = b c ç d f g ğ h j k l m n p r s ş t v y z D ;
+
+
+DEFINITIONS
+
+! context for vowel harmony
+VOWEL = [:C* :0*]* ;
+
+
+RULES
+
+"1. Vowel Harmony"
+! A:a if last vowel in stem is a back vowel
+! A:e if last vowel in stem is a front vowel
+! H:ı if last vowel in stem is a back unrounded vowel
+! H:i if last vowel in stem is a front unrounded vowel
+! H:u if last vowel in stem is a back rounded vowel
+! H:ü if last vowel in stem is a front rounded vowel
+
+X:Y => :Z VOWEL _ ;
+    where   X in (A A H H H H)
+            Y in (a e ı i u ü)
+            Z in (Vb Vf Vbu Vfu Vbr Vfr)
+    matched;

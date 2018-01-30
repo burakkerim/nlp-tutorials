@@ -1,0 +1,8 @@
+NASA’dan Ay’a yeni bir Ay projesi
+NASA’nın Asteroid Yönlendirme ile ilgili birimi ARM bir asteroidi Ay yörüngesine oturtup, asteroidden örnekler almanın peşinde. Buna kısaca “Ay için bir Ay projesi” de denilebilir.
+NASA’nın görevinin Mars’a yapılacak yolculuk öncesi hayati önem taşıdığı söyleniyor. Daha önce de gündeme gelen projenin nasıl işleyeceği ise bugün ilk kez kamuoyuna duyuruldu.  GÖREV NASIL YÜRÜTÜLECEK?
+NASA robotik kabiliyetleri olan bir uzay aracını dünya yakınında bulunan bir asteroide indirecek. Asteroidi Ay yörüngesine oturtacak. Ardından üzerinde inceleme yapmak için asteroidden topladığı parçaları aya götürecek.
+MARS’A GİDEN YOLDA BÜYÜK BİR ADIM
+İnsanoğlunun derin uzayı keşfetmesi için bu görevin önemi büyük. Astronotlar Ay’ın yörüngesindeki asteroidi ileride uzaya yapacakları yolculuklarda bir lojistik noktası olarak kullanacak. Ayrıca NASA asteroidi ay yörüngesine oturtmadan önce de potansiyel asteroid çarpmalarına karşı savunma sistemlerini deneme fırsatına sahip olacak.
+2020’DE BAŞLAYACAK
+2020’de başlaması planlanan görev için asteroid seçiminin 2019 sonuna kadar yapılmayacağı öngörülmekte. Eğer görev 2020’de sorunsuz bir şekilde başlarsa 2 sene sonra üzerinden örnek alınacak asteroide ulaşılması planlanıyor. Araştırılmak üzere alınacak parçaların ise 2025’de Ay’a getirileceği bildiriliyor.

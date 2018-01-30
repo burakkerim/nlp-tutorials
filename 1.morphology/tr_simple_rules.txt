@@ -1,0 +1,57 @@
+ALPHABET
+a b c ç d e f g h ı i j k l m n o ö p r s ş t u ü v y z 
+%+:0 %(:0 %):0 ;
+
+
+SETS
+
+! consonants - sessiz harfler
+C = b c ç d f g h j k l m n p r s ş t v y z ;
+
+! vowels - sesli harfler
+V = a e ı i o ö u ü ;
+
+! back vowels - kalın sesli
+Vb = a ı o u ;
+! front vowels - ince sesli
+Vf = e i ö ü ;
+
+! back rounded vowels - kalın yuvarlak sesli
+Vbr = o u ;
+! front rounded vowels - ince yuvarlak sesli
+Vfr = ö ü ;
+
+! back unrounded vowels - kalın düz sesli
+Vbu = a ı ;
+! front unrounded vowels - ince düz sesli
+Vfu = e i ;
+
+
+DEFINITIONS
+
+
+RULES
+
+"1. Vowel Harmony A:a"
+! if last vowel in stem is a back vowel
+A:a => :Vb [:C* (:0)*]* _ ;
+
+"2. Vowel Harmony A:e"
+! if last vowel in stem is a front vowel
+A:e => :Vf [:C* (:0)*]* _ ;
+
+"3. Vowel Harmony H:ı"
+! if last vowel in stem is a back unrounded vowel
+H:ı => :Vbu [:C* (:0)*]* _ ;
+
+"4. Vowel Harmony H:i"
+! if last vowel in stem is a front unrounded vowel
+H:i => :Vfu [:C* (:0)*]* _ ;
+
+"5. Vowel Harmony H:u"
+! if last vowel in stem is a back rounded vowel
+H:u => :Vbr [:C* (:0)*]* _ ;
+
+"6. Vowel Harmony H:ü"
+! if last vowel in stem is a front rounded vowel
+H:ü => :Vfr [:C* (:0)*]* _ ;

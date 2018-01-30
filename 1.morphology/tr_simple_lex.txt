@@ -1,0 +1,23 @@
+Multichar_Symbols
+    +SNG +PLU +P00+ P1S +P2S +P3S +P1P +P2P +P3P
+
+LEXICON Root
+    ev      Plu ;
+!    araba   Plu ;
+!    kitap   Plu ;
+    ağaç    Plu ;
+
+LEXICON Plu
+    +SNG:0      Pos;
+    +PLU:+lAr   Pos;
+
+LEXICON Pos
+    +Poo:0          #;
+    +P1S:+(H)m      #;
+    +P2S:+(H)n      #;
+    +P3S:+(s)HN     #;
+    +P1P:+(H)mHz    #;
+    +P2P:+(H)nHz    #;
+    +P3P:+lArHN     #;
+
+
